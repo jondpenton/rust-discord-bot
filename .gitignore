@@ -1,0 +1,5 @@
+# Rust output
+/target
+
+# Environment Variables
+.envrc
